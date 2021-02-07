@@ -2,8 +2,8 @@
 シェルスクリプトの練習がてら、ログ調査の練習をしてもらうための道具
 
 # 環境構築
-git clone https://github.com/supikid/log_training.git
-cd log_training
+    git clone git@github.com:chicham00/training_shellscript.git
+    cd training_shellscript
 
 # ファイル一覧
     - execute.sh
@@ -17,11 +17,11 @@ cd log_training
         シェルスクリプトを組む上で参考になりそうなサンプルを用意しました。
  
 # 実行
-    cd log_training
-    sh execute.sh
+    cd training_shellscript
+    sh log_check.sh
 
 # サンプルシェルの実行
-    cd log_training
+    cd training_shellscript
     sh sample.sh
 
 
